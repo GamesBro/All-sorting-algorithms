@@ -1,1 +1,1 @@
-# All-sorting-algorithms
+# Visualizing Sorting Algorithms in Python
